@@ -33,3 +33,7 @@ If you want to contribute changes, start a new change request and submit it for 
 {% hint style="info" %}
 GitHubからのプルリクをテストしています
 {% endhint %}
+
+{% hint style="success" %}
+いい感じのヒントをここに書く
+{% endhint %}
