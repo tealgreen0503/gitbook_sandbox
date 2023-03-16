@@ -29,3 +29,11 @@ This space is designed to be read linearly, so start with our Vision, Mission & 
 If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
 </details>
+
+{% hint style="info" %}
+GitHubからのプルリクをテストしています
+{% endhint %}
+
+{% hint style="success" %}
+いい感じのヒントをここに書く
+{% endhint %}
